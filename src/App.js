@@ -4,7 +4,7 @@ import Video from './Video';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <h1>This is a tik-tok clone</h1>
       <div className="app__videos">
         <Video />
